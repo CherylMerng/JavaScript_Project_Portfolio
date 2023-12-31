@@ -5,8 +5,7 @@
 
 body {
     /* font-family: 'Diphylleia', serif; */
-    /* font-family: 'Poppins', sans-serif; */
-    font-family: 'Diphylleia', 'Poppins', serif, sans-serif;
+    font-family: 'Poppins', sans-serif;
 
     font-size: 18px;    /* not include title*/
     color: #000;    /* not include link color */
